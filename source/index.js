@@ -1,3 +1,4 @@
+/* eslint-disable import/prefer-default-export */
 const defaults = {
   validateRoot: (item) => item,
 

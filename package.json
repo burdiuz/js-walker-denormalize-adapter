@@ -1,7 +1,7 @@
 {
   "name": "@actualwave/walker-denormalize-adapter",
   "description": "Tree Walker adapter for normalized trees",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "keywords": [
     "js",
